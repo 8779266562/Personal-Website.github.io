@@ -1,0 +1,19 @@
+body {
+    background-color: #aff1f1;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 3%;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+table,ol{
+    cursor: pointer;
+}
